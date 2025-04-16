@@ -11,7 +11,7 @@
 ## Estudando no momento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
-## GitHub Stats | Contribuições
+## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoliveira63)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveira63)](https://github.com/matheusoliveira63/github-readme-stats)
 
