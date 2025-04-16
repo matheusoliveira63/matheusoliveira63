@@ -13,5 +13,5 @@
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusoliveira63)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusoliveira63)](https://github.com/matheusoliveira63/github-readme-stats)
+
 
