@@ -1,4 +1,4 @@
-## Olá! No momento estou em uma jornada de aprendizado no mundo da tecnologia, rumo a uma carreira sólida em desenvolvimento e cloud! 
+## Olá! No momento estou em uma jornada de aprendizado no mundo da tecnologia, rumo a uma carreira sólida e de sucesso! 
 
 
 ## Conecte-se 
