@@ -1,4 +1,4 @@
-## Olá! No momento estou em uma jornada de aprendizado no mundo da tecnologia, focando meus estudos em backend e blockchain e cloud, rumo a uma carreira sólida e de sucesso! 
+## Olá! No momento estou em uma jornada de aprendizado no mundo da tecnologia, focando meus estudos em backend, blockchain e cloud, rumo a uma carreira sólida e de sucesso! 
 
 
 ## Conecte-se 
